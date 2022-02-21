@@ -9,7 +9,7 @@ public class Question1{
 
 		while (count <= 9);
 
-		System.out.println("Quiting program..");
+		System.out.println("End the program");
 
 	}
 }
